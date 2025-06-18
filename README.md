@@ -17,21 +17,42 @@
 - 💡 Exploring insights through **visual dashboards and advanced queries**
 - 🌱 Constantly learning **Power BI**, **Python libraries (Pandas, Matplotlib)**, and **SQL optimization**
 - 📊 Passionate about transforming raw data into powerful business stories
-- 🧠 **Fun Fact:** _"Data is the new oil, but it’s crude until refined."_ 💡
 
 ---
 
-### 🧭 My Learning Journey
+### 📈 Tools & Technologies
 
-```mermaid
-journey
-    title Data Analytics Roadmap
-    section Foundation
-      Excel & Data Cleaning: 5
-      SQL Queries & Joins: 5
-    section Analytics & Visuals
-      Power BI Dashboards: 4
-      Python Libraries: 3
-    section What’s Next?
-      Machine Learning Basics: 2
-      Cloud Platforms (Azure/AWS): 1
+| Tool       | Skills                             |
+|------------|-------------------------------------|
+| **Power BI** | Dashboards, DAX, Data Modeling     |
+| **SQL**      | Joins, CTEs, Window Functions       |
+| **Python**   | Pandas, NumPy, Matplotlib, Jupyter  |
+| **Excel**    | PivotTables, Lookup Functions, Charts |
+
+---
+
+### 📂 Projects
+
+- **Hospitality Analytics Dashboard**  
+  🔗 [View on Power BI](#)  
+  📊 Analysis of hotel bookings, customer segments & revenue patterns
+
+- **Sales Insights with SQL & Excel**  
+  🔗 [Explore the SQL Repo](#)  
+  📌 Cleaned & visualized sales data for actionable KPIs
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vamshikrishna-donthi-4547b3245" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:vamshireddy99365@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+</p>
