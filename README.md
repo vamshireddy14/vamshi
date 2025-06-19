@@ -28,9 +28,9 @@ Here are a few highlights from my work:
   📊 Power BI dashboard analyzing hotel bookings, customer segments & revenue  
   🔗 [View Dashboard](#)
 
-- 🧑‍💼 **HR Analytics Dashboard using Python**  
-  📌 Used Pandas and Matplotlib to analyze attrition, age distribution, and job satisfaction  
-  🔗 [View Notebook](#)
+- 🧑‍💼 **HR Analytics using Power BI**  
+  📌 Built dynamic reports to monitor attrition, employee satisfaction, and department performance  
+  🔗 [View Power BI Report](#)
 
 - 🚲 **Bike Sales Analysis using Excel**  
   📈 Created dashboards and charts to understand regional sales trends and customer demographics  
