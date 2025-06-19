@@ -20,6 +20,28 @@
 
 ---
 
+### 📁 Portfolio
+
+Here are a few highlights from my work:
+
+- 🏨 **Hospitality Analytics Dashboard**  
+  📊 Power BI dashboard analyzing hotel bookings, customer segments & revenue  
+  🔗 [View Dashboard](#)
+
+- 📉 **Sales Insights using SQL & Excel**  
+  🔍 SQL queries and Excel charts uncovering sales trends and KPIs  
+  🔗 [Explore Project](#)
+
+- 📦 **Inventory Management Analysis (Python)**  
+  📌 Used Pandas and Matplotlib to visualize stock levels and reorder points  
+  🔗 [View Notebook](#)
+
+- 🌍 **Global COVID-19 Trends Dashboard**  
+  🌐 Tracked and visualized cases using Power BI and public datasets  
+  🔗 [Check It Out](#)
+
+---
+
 ### 📈 Tools & Technologies
 
 | Tool       | Skills                             |
@@ -31,30 +53,9 @@
 
 ---
 
-### 📂 Projects
-
-- **Hospitality Analytics Dashboard**  
-  🔗 [View on Power BI](#)  
-  📊 Analysis of hotel bookings, customer segments & revenue patterns
-
-- **Sales Insights with SQL & Excel**  
-  🔗 [Explore the SQL Repo](#)  
-  📌 Cleaned & visualized sales data for actionable KPIs
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vamshikrishna-donthi-4547b3245" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:vamshireddy99365@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
-### 🧮 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshireddy14&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vamshireddy14&show_icons=true&theme=radical" />
 </p>
