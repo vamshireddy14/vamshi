@@ -28,17 +28,13 @@ Here are a few highlights from my work:
   📊 Power BI dashboard analyzing hotel bookings, customer segments & revenue  
   🔗 [View Dashboard](#)
 
-- 📉 **Sales Insights using SQL & Excel**  
-  🔍 SQL queries and Excel charts uncovering sales trends and KPIs  
-  🔗 [Explore Project](#)
-
-- 📦 **Inventory Management Analysis (Python)**  
-  📌 Used Pandas and Matplotlib to visualize stock levels and reorder points  
+- 🧑‍💼 **HR Analytics Dashboard using Python**  
+  📌 Used Pandas and Matplotlib to analyze attrition, age distribution, and job satisfaction  
   🔗 [View Notebook](#)
 
-- 🌍 **Global COVID-19 Trends Dashboard**  
-  🌐 Tracked and visualized cases using Power BI and public datasets  
-  🔗 [Check It Out](#)
+- 🚲 **Bike Sales Analysis using Excel**  
+  📈 Created dashboards and charts to understand regional sales trends and customer demographics  
+  🔗 [View Excel Report](#)
 
 ---
 
